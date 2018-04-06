@@ -1,0 +1,4 @@
+dev:
+  '*-*-d*':
+    - users
+    - groups
