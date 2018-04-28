@@ -1,4 +1,0 @@
-qa:
-  '*-*-q*':
-    - users
-    - groups
