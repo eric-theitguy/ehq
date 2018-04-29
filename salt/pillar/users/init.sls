@@ -1,5 +1,8 @@
-prd_user:
-  prd_name: sa-prd01
-  prd_password: "$1$h4rNDYt7$GB9ZcVl3YWkQ33YhWxJ0x0"
-  prd_uid: 1100
-  prd_comment: "PRD Service Account"
+base_user:
+  name: ehendricks
+  password: "$1$BlwT2eXy$hY8CXO.XkL.if/jO7hK48/"
+  uid: 1001
+  gid: 1001
+  comment: "Eric Hendricks"
+  groups:
+    - wheel

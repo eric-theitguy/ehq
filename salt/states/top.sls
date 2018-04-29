@@ -1,8 +1,4 @@
-base:
-  '*':
-    - bashrc
-    - cron
-    - hostconfig
-    - ntp
+prd:
+  '*-*p*':
     - users
-    - vim
+    - groups
