@@ -1,9 +1,10 @@
 # ehq
 
-- SALT
+- SYSCONFIG
+  Configuration files, scripts, and instructions for setting up one of my personal systems.
 
-  States and Pillars for the EHQ Saltstack
+  * VIM
+    Plugin instructions and configuration files for my personal vim useage.
 
-- VIM
-
-  Plugin instructions and configuration files for my personal vim useage.
+- TUTORIAL
+  Test directory for trying receipts and tutorial files
