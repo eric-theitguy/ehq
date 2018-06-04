@@ -60,6 +60,9 @@ Seasons:
     Automated Build (Jenkins)
     Automated Testing
     Automated Deployment (Deployment platforms: VM, Docker, etc)
+    EXTRA: Review of Kansas City DevOpsDays
+
+
   3 - ??? (Kanban, Context Switching, etc)
 
 Other Episodes:
