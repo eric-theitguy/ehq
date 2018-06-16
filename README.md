@@ -9,5 +9,9 @@
   * VIM  
     Plugin instructions and configuration files for my personal vim useage.
 
+  * WeeChat  
+    Configurations for weechat
+    Quickstart Guide https://www.linode.com/docs/applications/messaging/using-weechat-for-irc/
+
 - TUTORIAL  
-  Test directory for trying receipts and tutorial files
+  Test directory for trying recipies and tutorial files
