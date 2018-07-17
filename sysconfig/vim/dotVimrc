@@ -48,3 +48,6 @@ set hidden
 " " see for yourself
 set backspace=indent,eol,start
 set whichwrap+=<,>,hl
+
+" Set to show invisibles (tabs & trailing spaces) & their highlight color
+" set list listchars=tab:»\ ,trail:·
