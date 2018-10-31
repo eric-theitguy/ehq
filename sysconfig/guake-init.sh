@@ -1,11 +1,8 @@
 #!/bin/bash
 
-# Start and wait for process to warm
-/usr/bin/guake &
-sleep 5
+# Adjust current tab
+guake -r 'local';
 
-# Adjust default tab
-guake --rename-tab="Local"
-
-# Create new tab
-guake --new-tab --execute="/usr/bin/ssh -i ~/.ssh/id_rsa_do ehendricks@salt.theitguys.us" --rename-current-tab="ITG"
+# Create new tabs
+guake -n ~/ -r "joplin" -e '/usr/bin/joplin';
+guake -n ~/ -r "itg" -e "ssh -t itg 'tmux a'";
