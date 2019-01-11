@@ -10,3 +10,9 @@ fi
 
 # User specific aliases and functions
 source <(kubectl completion bash)
+
+### MAC ###
+
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagaced
+alias ll='ls -la'
